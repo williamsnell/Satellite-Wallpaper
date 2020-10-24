@@ -11,6 +11,7 @@
 * In the "Triggers" tab, click [New]
 * Select "Daily"
 * Tick "Repeat Task Every: " and select your desired refresh interval from the dropdown menu (I've selected every hour) 
+* Click [OK]
 
 ![Task Triggers](https://github.com/williamsnell/Satellite-Wallpaper/blob/main/readme_images/snip_3.PNG)
 
@@ -21,6 +22,7 @@
     "C:\Users\[Your Name]\AppData\Local\conda\conda\envs\[Environment Name]\python.exe"
 * In the "Add arguments (optional)" box, type the path to the python script in quotation marks, e.g.:
     "C:\Users\[Your Name]\Downloads\desktop_background_script.py"
+* Click [OK]
 
 ![Task Actions](https://github.com/williamsnell/Satellite-Wallpaper/blob/main/readme_images/snip_4.PNG)
 
