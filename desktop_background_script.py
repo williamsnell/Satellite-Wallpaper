@@ -21,12 +21,12 @@ url = source_dict["Himawari-8"]
 
 # Download image
 image_data = requests.get(url).content
-with open('himawari.jpg', 'wb') as handler:
+abspath = os.path.expanduser('~\\Pictures\\himawari.jpg')
+with open(abspath, 'wb') as handler:
     handler.write(image_data)
 
 #reopen image
 
-abspath = os.path.abspath("himawari.jpg")
 img = Image.open(abspath)
 
 # make copy and edit
