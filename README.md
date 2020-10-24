@@ -19,7 +19,7 @@
 * Find your python executable path, and put it in the Program/script box
   * For a conda environment, for example, this should be by default: 
   
-    "C:\Users\[Your Name]\AppData\Local\conda\conda\envs\[Environment Name]\python.exe"
+    C:\Users\[Your Name]\AppData\Local\conda\conda\envs\[Environment Name]\python.exe
 * In the "Add arguments (optional)" box, type the path to the python script in quotation marks, e.g.:
     "C:\Users\[Your Name]\Downloads\desktop_background_script.py"
 * Click [OK]
