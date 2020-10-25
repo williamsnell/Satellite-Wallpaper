@@ -19,9 +19,9 @@
 * Find your python executable path, and put it in the Program/script box
   * For a conda environment, for example, this should be by default: 
   
-    C:\Users\[Your Name]\AppData\Local\conda\conda\envs\[Environment Name]\python.exe
+    C:\Users\[Your Name]\AppData\Local\conda\conda\envs\[Environment Name]\pythonw.exe
     
-> Note: On windows, to stop the script from opening a terminal every time it is run, use pythonw.exe instead
+> Note: To stop the script from opening a terminal every time it is run, use pythonw.exe instead
   of python.exe
     
 * In the "Add arguments (optional)" box, type the path to the python script in quotation marks, e.g.:
